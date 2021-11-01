@@ -1,1 +1,1 @@
-http://u9in.club:8080//get.php?username=adelson10&password=adelson20&type=m3u
+http://iptv.movie:8080//get.php?username=lorena11&password=11lorena&type=m3u
